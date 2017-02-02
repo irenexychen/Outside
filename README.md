@@ -25,5 +25,4 @@ From GitHub: Download files as-is. Main game code located in Outside/app/src/mai
 From the Play Store: [https://play.google.com/store/apps/details?id=xy.temp.outside](https://play.google.com/store/apps/details?id=xy.temp.outside)
 Prerequisites: Android 4.1 or newer
 
-. _ . _ . _ . _ .
 More about the developer: [www.xiangyichen.com](www.xiangyichen.com)
